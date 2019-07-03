@@ -1,0 +1,8 @@
+The following packages need to be installed to execte this project sucessfully on windows:
+
+pandas
+numpy
+matplotlib
+cv2
+sklearn
+tensorflow
